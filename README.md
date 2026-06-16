@@ -1,6 +1,6 @@
 # 基于 Mem0 记忆层的大模型个性化金融理财顾问系统 (AI Financial Advisor)
 
-![Version](https://img.shields.io/badge/version-v1.1.0-blue)
+![Version](https://img.shields.io/badge/version-v2-blue)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-green)
 ![LLM](https://img.shields.io/badge/LLM-Zhipu_GLM--4-orange)
 ![Memory](https://img.shields.io/badge/Memory-Mem0%20%7C%20Qdrant-red)
