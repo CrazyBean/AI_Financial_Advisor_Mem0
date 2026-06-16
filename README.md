@@ -1,6 +1,6 @@
 # 基于 Mem0 记忆层的大模型个性化金融理财顾问系统 (AI Financial Advisor)
 
-![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![Version](https://img.shields.io/badge/version-v1.1.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-green)
 ![LLM](https://img.shields.io/badge/LLM-Zhipu_GLM--4-orange)
 ![Memory](https://img.shields.io/badge/Memory-Mem0%20%7C%20Qdrant-red)
@@ -69,7 +69,7 @@ python3 src/demo_run.py
 │   ├── advisor.py          # 系统大脑：Mem0 初始化、记忆读写与 GLM-4 调用
 │   └── demo_run.py         # 运行入口：终端交互界面与工作流组装
 └── report/                 # 学术与汇报产出库 (文档/论文)
-    └── 项目报告_基于Mem0的大模型个性化金融理财顾问系统.pdf (等相关材料)
+    └── 基于大语言模型记忆层（Mem0）的个性化智能金融理财顾问系统-人工智能实践课程报告.pdf
 ```
 
 ## 🛠️ 已知问题与补丁说明
