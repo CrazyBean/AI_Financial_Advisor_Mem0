@@ -4,7 +4,7 @@ import sys
 # -----------------------------------------------------
 # API Key 设置区
 # -----------------------------------------------------
-MY_ZHIPU_KEY = "YOUR_API_KEY_HERE"
+MY_ZHIPU_KEY = "YOUR_REAL_ZHIPU_API_KEY"
 
 def main():
     global MY_ZHIPU_KEY
@@ -14,7 +14,7 @@ def main():
     print("=====================================================\n")
 
     # 1. 智能 API Key 注入
-    if MY_ZHIPU_KEY == "YOUR_API_KEY_HERE" or not MY_ZHIPU_KEY.strip():
+    if MY_ZHIPU_KEY == "YOUR_REAL_ZHIPU_API_KEY" or not MY_ZHIPU_KEY.strip():
         print("🔑 【身份认证】系统检测到您尚未在代码中配置 API Key。")
         user_input = input(" 👉 请在此处粘贴您的智谱清言(ZhipuAI) API Key 并按回车: ").strip()
         print("")
