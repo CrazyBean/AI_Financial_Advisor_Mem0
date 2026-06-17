@@ -4,7 +4,7 @@ import sys
 # -----------------------------------------------------
 # API Key 设置区
 # -----------------------------------------------------
-MY_ZHIPU_KEY = "5ca095baaa8c4bcc944019015e91d7cb.j58b88ihRdAKFJnW"
+MY_ZHIPU_KEY = "YOUR_API_KEY_HERE"
 
 def main():
     global MY_ZHIPU_KEY
